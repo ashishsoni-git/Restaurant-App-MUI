@@ -1,0 +1,147 @@
+[
+    {
+        "name": "Masala Dosa",
+        "src": "https://i.pinimg.com/originals/e8/dc/7f/e8dc7f0b59b8602ba30621dee3c6291c.jpg",
+        "price": 150,
+        "ingredients": [
+            "Rice",
+            "Urad dal",
+            "Potatoes",
+            "Onions",
+            "Green chilies",
+            "Mustard seeds",
+            "Curry leaves",
+            "Turmeric powder",
+            "Oil",
+            "Salt"
+        ]
+    },
+    {
+        "name": "Idli Sambhar",
+        "src": "https://vaya.in/recipes/wp-content/uploads/2018/02/Idli-and-Sambar-1.jpg",
+        "price": 120,
+        "ingredients": [
+            "Idli batter (Rice and Urad dal)",
+            "Sambhar (Toor dal, Tamarind, Vegetables)",
+            "Coconut chutney (Coconut, Green chilies, Chana dal)",
+            "Ghee"
+        ]
+    },
+    {
+        "name": "Uttapam",
+        "src": "https://c.ndtvimg.com/2022-08/4i2h41mo_uttapam_625x300_10_August_22.jpg",
+        "price": 140,
+        "ingredients": [
+            "Rice and Urad dal batter",
+            "Onions",
+            "Tomatoes",
+            "Green chilies",
+            "Coriander leaves",
+            "Mustard seeds",
+            "Curry leaves",
+            "Oil",
+            "Salt"
+        ]
+    },
+    {
+        "name": "Pongal",
+        "src": "https://www.yummytummyaarthi.com/wp-content/uploads/2023/10/ven-pongal-1.jpeg",
+        "price": 130,
+        "ingredients": [
+            "Rice",
+            "Moong dal",
+            "Pepper",
+            "Cumin seeds",
+            "Ginger",
+            "Cashew nuts",
+            "Ghee",
+            "Salt"
+        ]
+    },
+    {
+        "name": "Vada",
+        "src": "https://t4.ftcdn.net/jpg/04/93/56/75/360_F_493567592_wijZ9m7d1RtxuyoYF7ACHMaDmUvgi4ty.jpg",
+        "price": 100,
+        "ingredients": [
+            "Urad dal",
+            "Green chilies",
+            "Ginger",
+            "Curry leaves",
+            "Black pepper",
+            "Cumin seeds",
+            "Coconut",
+            "Oil",
+            "Salt"
+        ]
+    },
+   
+    {
+        "name": "Bisi Bele Bath",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Bisi_Bele_Bath_%28Bisibelebath%29.JPG/640px-Bisi_Bele_Bath_%28Bisibelebath%29.JPG",
+        "price": 140,
+        "ingredients": [
+            "Rice",
+            "Toor dal",
+            "Mixed vegetables (Carrot, Beans, Peas)",
+            "Tamarind",
+            "Sambar powder",
+            "Jaggery",
+            "Ghee",
+            "Cashew nuts",
+            "Salt"
+        ]
+    },
+    {
+        "name": "Mysore Masala Dosa",
+        "src": "https://i0.wp.com/rickshawlounge.co.uk/oovoxeen/2023/07/thumb__700_0_0_0_auto-1.jpg?fit=700%2C466&ssl=1",
+        "price": 170,
+        "ingredients": [
+            "Rice",
+            "Urad dal",
+            "Potatoes",
+            "Onions",
+            "Red chutney (Red chilies, Garlic, Oil)",
+            "Green chilies",
+            "Mustard seeds",
+            "Curry leaves",
+            "Turmeric powder",
+            "Oil",
+            "Salt"
+        ]
+    },
+   
+    {
+        "name": "Poori Bhaji",
+        "src": "https://cdn.cdnparenting.com/articles/2020/02/26144721/PURI-BHAJI-RECIPE.webp",
+        "price": 110,
+        "ingredients": [
+            "Whole wheat flour",
+            "Potatoes",
+            "Onions",
+            "Tomatoes",
+            "Green chilies",
+            "Ginger",
+            "Turmeric powder",
+            "Mustard seeds",
+            "Cumin seeds",
+            "Curry leaves",
+            "Oil",
+            "Salt"
+        ]
+    },
+    {
+        "name": "Avial",
+        "src": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Ayiyal.jpg",
+        "price": 150,
+        "ingredients": [
+            "Mixed vegetables (Drumsticks, Carrot, Beans, Potato)",
+            "Coconut",
+            "Green chilies",
+            "Curry leaves",
+            "Cumin seeds",
+            "Curd",
+            "Coconut oil",
+            "Salt"
+        ]
+    }
+]
